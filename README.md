@@ -1,1 +1,1 @@
-# Week-10-Practical-JavaScript
+# Week-10
